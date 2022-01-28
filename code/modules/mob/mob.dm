@@ -731,7 +731,7 @@
 /mob/verb/test()
 set name = "Test Verb"
 set category = "OOC"
-to_chat(usr, "<span class='boldnotice'>Test succeeded</span>"")
+to_chat(usr, "<span class='boldnotice'>Test succeeded</span>")
 
 /**
   * Topic call back for any mob
